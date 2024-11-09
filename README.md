@@ -32,4 +32,8 @@ Email: [devshozon999@gmail.com](mailto:devshozon999@gmail.com)
 
 ## Live Demo
 
-Check out the live demo [here](https://shozon-roy.github.io/Bitly-Link-Shortner/) .
+Check out the live demo [here](https://bitlyshortner.onrender.com/) .
+
+## Preview
+
+![Project Preview](https://api.urlbox.io/v1/ca482d7e-9417-4569-90fe-80f7c5e1c781/2e96f8f6f8aa5533e1fac70eb8498bf694e761326906887cd71997a58d02dd44/png?url=https%3A%2F%2Fshozon-roy.github.io%2FBitly-Link-Shortner%2F&width=1440&height=1024&hide_cookie_banners=true)
